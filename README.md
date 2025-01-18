@@ -22,6 +22,8 @@ Ajouter les bibliothèques manquantes (JCalendar, JFreeChart, MySQL Connector)
 Configurer la base de données MySQL (importer le script SQL fourni)
 Exécuter l’application 🎉
 
+le .rar contient tous le projet .
+
 ![Capture1](https://github.com/user-attachments/assets/218ff7fa-3846-4962-8c30-536aed592d80)
 
 ![Capture d’écran 2025-01-18 182925](https://github.com/user-attachments/assets/053538e5-9d6d-46f1-ac51-dd8082bf4546)
